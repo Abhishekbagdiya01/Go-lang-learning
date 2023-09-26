@@ -29,4 +29,10 @@ func main() {
 	var implicitVar = "WUBBA LUBBA DUB DUB"
 	fmt.Printf("var is type of %T \n", implicitVar)
 
+	// constant
+	const username string = "Abhishek"
+	fmt.Println(username)
+	const repoUrl = "https://github.com/Abhishekbagdiya01/Go-lang-learning"
+	fmt.Println(repoUrl)
+
 }
