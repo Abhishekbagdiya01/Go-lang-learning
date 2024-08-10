@@ -2,6 +2,7 @@
 
 This repository contains my code snippets, exercises, projects, and notes as I learn the Go programming language.
 
+
 ### Resources
 
 Here are some resources that I have found helpful for learning Go:
